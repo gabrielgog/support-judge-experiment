@@ -1,0 +1,7 @@
+# Python 3.10+ (typesafe-sdk does not support 3.9)
+anthropic==1.15.0
+python-dotenv==1.2.4
+typesafe-sdk==0.7.5
+
+# Development
+pytest==9.1.1

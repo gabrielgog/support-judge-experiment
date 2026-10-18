@@ -1,0 +1,1 @@
+{"timestamp_utc": "2026-10-18T11:32:53.852329+00:00", "example_id": "support-004", "model": "jev-1.13.0", "verdict": "pass", "probabilities": {"pass": 1.0, "fail": 0.0}, "confidence": 1.0, "input_tokens": 550, "output_tokens": 32}
